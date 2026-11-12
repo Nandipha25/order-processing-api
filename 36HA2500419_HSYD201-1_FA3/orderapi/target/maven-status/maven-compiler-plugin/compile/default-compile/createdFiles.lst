@@ -1,0 +1,6 @@
+com\bcc\orderapi\repository\OrderRepository.class
+com\bcc\orderapi\model\Order.class
+com\bcc\orderapi\service\OrderService.class
+com\bcc\orderapi\OrderapiApplication.class
+com\bcc\orderapi\exception\GlobalExceptionHandler.class
+com\bcc\orderapi\controller\OrderController.class
